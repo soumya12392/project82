@@ -1,0 +1,44 @@
+.body_background {
+        background-image: url("bg1.jpg");
+        background-position: center;
+        background-size: cover;
+  }
+
+  body {
+        cursor: pointer;
+  }
+
+  h1 {
+      color: red; 
+      font-size: 40px;
+  }
+
+  #myCanvas {
+      border-width: 10px;
+      background-color: white; 
+      border-style: ridge;
+  }
+
+  button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 10px 42px;
+        font-size: 16px;
+        font-family: 'Quicksand', sans-serif;
+  }
+
+  input {
+        margin-left: 10px;
+        font-family: 'Quicksand', sans-serif;
+        padding-left: 10px;
+        height: 50px;
+        width: 180px;
+        font-size: 15px;
+        font-weight: bold;
+  }
+
+  .text {
+        font-family: 'Quicksand', sans-serif;
+        font-weight: bold;
+  }
